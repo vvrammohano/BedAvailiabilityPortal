@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="AddBedService/src/main/java"/>
+	<classpathentry kind="src" path="AddBedService/src/test/java"/>
+	<classpathentry kind="src" path="AdminHospital-Service/src/main/java"/>
+	<classpathentry kind="src" path="AdminHospital-Service/src/test/java"/>
+	<classpathentry kind="src" path="BedBooking-Service/src/main/java"/>
+	<classpathentry kind="src" path="BedBooking-Service/src/test/java"/>
+	<classpathentry kind="src" path="Discovery-Server/src/main/java"/>
+	<classpathentry kind="src" path="Discovery-Server/src/test/java"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="userveiw-microservice/src/main/java"/>
+	<classpathentry kind="src" path="userveiw-microservice/src/test/java"/>
+	<classpathentry kind="lib" path="AddBedService/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="AdminHospital-Service/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="userveiw-microservice/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="AddBedService/target/classes"/>
+</classpath>

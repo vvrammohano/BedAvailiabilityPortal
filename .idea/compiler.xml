@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bedavailabilityportal" />
+        <module name="AddBed-Service" />
+        <module name="AdminHospital (2)" />
+        <module name="AdminHospital (1)" />
+        <module name="descovery-server" />
+        <module name="Discovery-Server" />
+        <module name="userveiw-microservice" />
+        <module name="AdminHospital-Service" />
+        <module name="BedBooking-Service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="addBedService" target="11" />
+      <module name="spring-boot-security-jwt-mongodb" target="1.8" />
+      <module name="UserView-Service" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="AddBed-Service" options="-parameters" />
+      <module name="AdminHospital (1)" options="-parameters" />
+      <module name="AdminHospital (2)" options="-parameters" />
+      <module name="AdminHospital-Service" options="-parameters" />
+      <module name="BedBooking-Service" options="-parameters" />
+      <module name="Discovery-Server" options="-parameters" />
+      <module name="UserView-Service" options="-parameters" />
+      <module name="addBedService" options="-parameters" />
+      <module name="bedavailabilityportal" options="-parameters" />
+      <module name="descovery-server" options="-parameters" />
+      <module name="spring-boot-security-jwt-mongodb" options="-parameters" />
+      <module name="userveiw-microservice" options="-parameters" />
+    </option>
+  </component>
+</project>
